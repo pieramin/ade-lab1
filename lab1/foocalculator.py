@@ -12,3 +12,4 @@ class foocalculator:
 
 cal = foocalculator()
 print(cal.sum(4,5))
+print(cal.sum(5+6))
